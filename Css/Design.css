@@ -193,7 +193,7 @@ button:hover {
   box-shadow: 0 0 25px 10px rgba(255, 0, 0, 0.9);
 }
 .food {
-  background-image: url('../img/summer.jpg');
+  background-image: url('../img/Summer.jpg');
   height:80vh;
   padding: 1rem;
   background-repeat: no-repeat;
@@ -211,7 +211,7 @@ button:hover {
   font-size: 1rem;
 }
 .med {
-  background-image: url('../img/abore.jpg');
+  background-image: url('../img/Abore.jpg');
   height:60vh;
   padding: 1rem;
   background-repeat: no-repeat;
